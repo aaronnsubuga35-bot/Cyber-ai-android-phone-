@@ -1,0 +1,7 @@
+
+<voice-interaction-service
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:sessionService="com.cyberai.app.CyberVoiceInteractionSessionService"
+    android:recognitionService=""
+    android:supportsAssist="true"
+    android:supportsLaunchFromKeyguard="false" />
